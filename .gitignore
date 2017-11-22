@@ -1,0 +1,10 @@
+/vendor
+/node_modules
+Homestead.yaml
+Homestead.json
+.env
+.idea/
+composer.lock
+.phpintel/
+.phpintel/index
+._ide_helper.php
